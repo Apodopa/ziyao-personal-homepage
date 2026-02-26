@@ -16,7 +16,7 @@ const experiences: Experience[] = [
     year: "2024 – 至今",
     title: "工程热物理研究所 · 科研助理",
     company: "上海交通大学",
-    description: "在工程热物理研究所参与科研工作，一篇待接收SCI一区顶刊National Science Review第一作者综述；学习探索AI相关技术。", 
+    description: "在工程热物理研究所参与科研工作，一篇待接收SCI一区顶刊National Science Review(IF=17.7)第一作者综述；学习探索AI相关技术。", 
     type: "work",
   },
   {
@@ -24,7 +24,7 @@ const experiences: Experience[] = [
     year: "2020/09 – 2023/06",
     title: "能源动力专业 · 硕士",
     company: "上海交通大学",
-    description: "GPA：3.57/4.0。完成硕士课题与课程研究，具备英文论文阅读、写作与沟通能力。发表一篇SCI一区论文和一篇EI论文。",
+    description: "完成硕士课题与课程研究，具备英文论文阅读、写作与沟通能力。发表一篇SCI一区论文(IF=13.3，被引用次数：27)和一篇EI论文(被引用次数：6)。",
     type: "education",
   },
   {
@@ -32,7 +32,7 @@ const experiences: Experience[] = [
     year: "2016/09 – 2020/06",
     title: "流体机械及其自动控制专业 · 学士",
     company: "江苏大学",
-    description: "GPA：3.61/4.5。参与流动与传热相关仿真研究与项目实践，参与大学生创新创业省级重点项目，发表中文论文并完成项目结项。",
+    description: "参与流动与传热相关仿真研究与项目实践，参与大学生创新创业省级重点项目，发表中文论文并完成项目结项。",
     type: "education",
   },
 ];

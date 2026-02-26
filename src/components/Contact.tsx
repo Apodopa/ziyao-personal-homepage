@@ -25,6 +25,8 @@ export function Contact() {
           </h2>
           <p className="text-xl text-zinc-400 mb-12 max-w-2xl mx-auto">
             个人具备良好的自驱动力，擅长利用英文优势快速摄取并吸收前沿科研动态和技术信息。不仅关注AI算法演进，更期待投身于软硬件一体化及物理世界智能交互的变革。拥有优秀的团队复配能力，工作积极前瞻，敢于走出舒适区挑战前沿课题，是一个兼具探索激情与落地执行力的协作伙伴。
+          </p>
+          <p className="text-2xl md:text-3xl font-light tracking-wider mb-12 max-w-2xl mx-auto bg-gradient-to-r from-cyan-400 via-blue-400 to-purple-400 bg-clip-text text-transparent drop-shadow-[0_0_10px_rgba(100,200,255,0.3)]">
             我随时准备开始新的挑战。无论是项目合作还是加入团队，欢迎随时联系我。
           </p>
           

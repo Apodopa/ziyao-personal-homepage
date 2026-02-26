@@ -38,6 +38,7 @@ export function Contact() {
           <div className="mt-6 mb-16 flex flex-col items-center gap-3">
             <EmailRow email="ziyaoxu926gausstein@alumni.sjtu.edu.cn" />
             <EmailRow email="apodopabel@gmail.com" />
+            <EmailRow email="zyxusjtu@163.com" />
           </div>
 
 

@@ -12,8 +12,8 @@ import { FileText } from "lucide-react";
 
 interface CaseStudy {
   background: string;
-  process: string[];
-  challenges: { title: string; detail: string }[];
+  process?: string[];
+  challenges?: { title: string; detail: string }[];
   outcomes: string[];
   stack: string[];
 }

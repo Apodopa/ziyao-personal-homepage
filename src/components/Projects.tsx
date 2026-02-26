@@ -40,6 +40,8 @@ const projects: Project[] = [
     caseStudy: {
       background:
         "聚焦离子热电（Ionic Thermoelectric）方向：在明胶水凝胶与不同电极协同作用下，观察到塞贝克系数的普遍负偏移；并通过碳基电极增强明胶离子水凝胶的 n 型热电性能，验证其在 ITESCs 与 EDLC 中的多功能性。",
+      process: [],
+      challenges: [],
       outcomes: [
         "发表 SCI 一区论文 1 篇（第一作者，Chemical Engineering Journal，IF≈13.3，被引≈27）",
         "发表 EI 论文 1 篇",
@@ -58,6 +60,8 @@ const projects: Project[] = [
     caseStudy: {
       background:
         "使用 TensorFlow 构建 PINN 框架，将二维传热方程作为残差优化目标；在较少初始训练数据下获得高精度温度分布预测，并与解析解保持良好一致。",
+      process: [],
+      challenges: [],
       outcomes: [
         "成功搭建 PINN 训练框架（TensorFlow）",
         "输出二维温度场预测结果与误差分析报告",

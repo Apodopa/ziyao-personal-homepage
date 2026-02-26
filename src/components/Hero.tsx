@@ -6,7 +6,7 @@ import { TimeWidget } from "./TimeWidget";
 import avatarImg from "@/assets/avatar-custom.jpg";
 import gradientImg from "@/assets/gradient.jpg";
 
-const HOME_URL = "https://your-domain.com";
+const HOME_URL = "https://ziyao-personal-homepage.vercel.app";
 const SCHOLAR_URL = "https://scholar.google.com/citations?user=aN7wWyMAAAAJ";
 
 export function Hero() {
